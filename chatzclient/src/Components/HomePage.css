@@ -1,0 +1,40 @@
+/* ::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: grey;
+}
+ */
+
+
+ /* Scrollbar Width */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+/* Scrollbar Track */
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Scrollbar Thumb */
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #8b5cf6, #3b82f6, #ec4899);
+  border-radius: 10px;
+  animation: scrollThumbAnimation 6s ease infinite;
+  background-size: 200% 200%;
+}
+
+/* Animate the gradient */
+@keyframes scrollThumbAnimation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
