@@ -97,12 +97,21 @@ Current communication platforms used by students and teachers are:
 
 ---
 
-## 🧪 Group Chat Support  
-- Browse and join public groups from the sidebar.  
-- Send/receive messages in real time.  
-- Messages persist in the database for each group.
-
+## This platform can easily be extended in future versions to support:
+- 📎 File sharing (notes, PDFs, etc.)
+- 📅 Event and announcement boards
+- 🔔 In-app notifications
+- 🎓 Alumni-student mentorship channels
+- 👤 Admin roles for group moderation
 ---
+## 🔗 Live Demo
+👉 [College Connect (Frontend on Vercel)](https://college-connect-theta.vercel.app)
+
+## 👥 Contributors
+- [Supratim Dey](https://www.linkedin.com/in/supratim-dey07/) 
+- [Debanjana Jha](https://www.linkedin.com/in/debanjana-jha-a524b1258/)
+- [Sulagnaaa](https://www.linkedin.com/in/sulagna-hore-934526254/)
+- [Ridhi Singh](https://www.linkedin.com/in/ridhisingh7595/)
 
 ## 📥 How to Clone & Run the Project
 
@@ -128,14 +137,7 @@ cd ../chatzserver
 
 
 
-## 🔗 Live Demo
-👉 [College Connect (Frontend on Vercel)](https://college-connect-theta.vercel.app)
 
-## 👥 Contributors
-- [Supratim Dey](https://www.linkedin.com/in/supratim-dey07/) 
-- [Debanjana Jha](https://www.linkedin.com/in/debanjana-jha-a524b1258/)
-- [Sulagnaaa](https://www.linkedin.com/in/sulagna-hore-934526254/)
-- [Ridhi Singh](https://www.linkedin.com/in/ridhisingh7595/)
 
 
 
