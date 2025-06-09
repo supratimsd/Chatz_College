@@ -126,10 +126,12 @@ npm start
 cd ../chatzserver
 ./mvnw spring-boot:run
 
-🔗 Live Demo
+
+
+## 🔗 Live Demo
 👉 [College Connect (Frontend on Vercel)](https://college-connect-theta.vercel.app)
 
-👥 Contributors
+## 👥 Contributors
 - [Supratim Dey](https://www.linkedin.com/in/supratim-dey07/) 
 - [Debanjana Jha](https://www.linkedin.com/in/debanjana-jha-a524b1258/)
 - [Sulagnaaa](https://www.linkedin.com/in/sulagna-hore-934526254/)
