@@ -95,10 +95,10 @@ This platform can easily be extended in future versions to support:
 - 👤 Admin roles for group moderation
 
 🔗 Live Demo
-👉 College Connect (Frontend on Vercel)
+👉 [College Connect (Frontend on Vercel)](https://college-connect-theta.vercel.app)
 
 👥 Contributors
-- Supratim Dey  
-- Debanjana Jha  
-- Sulagnaaa  
-- Ridhi Singh
+- [Supratim Dey](https://www.linkedin.com/in/supratim-dey07/) 
+- [Debanjana Jha](https://www.linkedin.com/in/debanjana-jha-a524b1258/)
+- [Sulagnaaa](https://www.linkedin.com/in/sulagna-hore-934526254/)
+- [Ridhi Singh](https://www.linkedin.com/in/ridhisingh7595/)
